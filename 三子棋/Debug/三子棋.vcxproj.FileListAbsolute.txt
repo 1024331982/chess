@@ -1,0 +1,2 @@
+I:\C\三子棋\Debug\三子棋.exe
+I:\C\三子棋\Debug\三子棋.pdb
